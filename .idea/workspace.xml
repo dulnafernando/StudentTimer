@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40269a76-a977-4074-a98a-d9437a602348" name="Changes" comment="Add base styles for consistent UI components">
-      <change afterPath="$PROJECT_DIR$/StudentTimer/app/src/main/res/values/colours/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudentTimer/app/src/main/res/values/themes/themes.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudentTimer/app/src/main/res/values/themes/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/StudentTimer/app/src/main/res/values/dimens.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudentTimer/app/src/main/res/values/themes/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/StudentTimer/app/src/main/res/values/styles.xml" afterDir="false" />
-    </list>
+    <list default="true" id="40269a76-a977-4074-a98a-d9437a602348" name="Changes" comment="Implement ThemeSettingsActivity for switching between light and dark themes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,17 +54,17 @@
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "ui-theme",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/okumb/AndroidStudioProjects/StudentTimer/StudentTimer/app/src/main/res/values",
+    "last_opened_file_path": "C:/Users/okumb/AndroidStudioProjects/StudentTimer/StudentTimer/app/src/main/java/com/example/studenttimer/ui",
     "settings.editor.selected.configurable": "AndroidSdkUpdater"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\okumb\AndroidStudioProjects\StudentTimer\StudentTimer\app\src\main\java\com\example\studenttimer\ui" />
       <recent name="C:\Users\okumb\AndroidStudioProjects\StudentTimer\StudentTimer\app\src\main\res\values" />
       <recent name="C:\Users\okumb\AndroidStudioProjects\StudentTimer\StudentTimer\app\src\main\res\values\themes" />
       <recent name="C:\Users\okumb\AndroidStudioProjects\StudentTimer\StudentTimer\app\src\main\res\values\colours" />
       <recent name="C:\Users\okumb\AndroidStudioProjects\StudentTimer\StudentTimer\app\src\main\res\drawable" />
-      <recent name="C:\Users\okumb\AndroidStudioProjects\StudentTimer\StudentTimer\app\src\main\res\layout" />
     </key>
   </component>
   <component name="TaskManager">
@@ -176,7 +171,31 @@
       <option name="project" value="LOCAL" />
       <updated>1773340512603</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Define light theme color palette,Define light theme configuration and improve some files">
+      <option name="closed" value="true" />
+      <created>1773341030562</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1773341030562</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Add ThemeStore to manage app theme preferences (dark/light mode)">
+      <option name="closed" value="true" />
+      <created>1773341227138</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1773341227138</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Implement ThemeSettingsActivity for switching between light and dark themes">
+      <option name="closed" value="true" />
+      <created>1773341268802</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1773341268802</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -192,6 +211,9 @@
     <MESSAGE value="Add glass-style card background drawable for modern UI design" />
     <MESSAGE value="Define UI dimension resources for consistent spacing and sizing" />
     <MESSAGE value="Add base styles for consistent UI components" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add base styles for consistent UI components" />
+    <MESSAGE value="Define light theme color palette,Define light theme configuration and improve some files" />
+    <MESSAGE value="Add ThemeStore to manage app theme preferences (dark/light mode)" />
+    <MESSAGE value="Implement ThemeSettingsActivity for switching between light and dark themes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement ThemeSettingsActivity for switching between light and dark themes" />
   </component>
 </project>
