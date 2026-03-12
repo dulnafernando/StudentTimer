@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="pad_screen">20dp</dimen>
-    <dimen name="pad_card">16dp</dimen>
-
-    <dimen name="radius_card">24dp</dimen>
-    <dimen name="radius_btn">18dp</dimen>
-</resources>
