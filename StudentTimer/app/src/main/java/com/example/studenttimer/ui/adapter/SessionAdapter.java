@@ -1,5 +1,5 @@
 package com.example.studenttimer.ui.adapter;
-
+//this is session adapter
 import android.content.Context;
 import android.database.Cursor;
 import android.view.LayoutInflater;
