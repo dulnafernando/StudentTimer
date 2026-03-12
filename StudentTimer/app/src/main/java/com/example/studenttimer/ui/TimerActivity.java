@@ -1,5 +1,5 @@
 package com.example.studenttimer.ui;
-
+// this is Time activity
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.CountDownTimer;
