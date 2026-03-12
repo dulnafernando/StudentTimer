@@ -1,5 +1,5 @@
 package com.example.studenttimer.data.repo;
-
+//Session repository
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
