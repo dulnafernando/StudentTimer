@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40269a76-a977-4074-a98a-d9437a602348" name="Changes" comment="ring bg file edited" />
+    <list default="true" id="40269a76-a977-4074-a98a-d9437a602348" name="Changes" comment="Create history screen layout for displaying previous records">
+      <change afterPath="$PROJECT_DIR$/StudentTimer/app/src/main/res/drawable/bg_glass_card.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,26 +18,26 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Kasuni" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Kasuni5626"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Kasuni5626&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/dulnafernando/StudentTimer",
-    "accountId": "4baa34a7-5d39-476f-a8fc-55e8205e622d"
+    "url": "https://github.com/dulnafernando/StudentTimer.git",
+    "accountId": "a064bcc9-6f17-4abf-a970-43d8e359fbad"
   }
 }]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="3Aqy4ArefDodC9mUKYkRwnfYt6e" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -52,11 +54,19 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "Kasuni",
+    "git-widget-placeholder": "ui-theme",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/okumb/AndroidStudioProjects/StudentTimer/StudentTimer/app/src/main/res/drawable",
     "settings.editor.selected.configurable": "AndroidSdkUpdater"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\okumb\AndroidStudioProjects\StudentTimer\StudentTimer\app\src\main\res\values\themes" />
+      <recent name="C:\Users\okumb\AndroidStudioProjects\StudentTimer\StudentTimer\app\src\main\res\drawable" />
+      <recent name="C:\Users\okumb\AndroidStudioProjects\StudentTimer\StudentTimer\app\src\main\res\layout" />
+    </key>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="40269a76-a977-4074-a98a-d9437a602348" name="Changes" comment="" />
@@ -121,7 +131,23 @@
       <option name="project" value="LOCAL" />
       <updated>1773336118415</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Design theme settings screen layout">
+      <option name="closed" value="true" />
+      <created>1773340150555</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1773340150555</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Create history screen layout for displaying previous records">
+      <option name="closed" value="true" />
+      <created>1773340203567</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1773340203567</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -132,6 +158,8 @@
     <MESSAGE value="Item session file edited" />
     <MESSAGE value="progress file edited" />
     <MESSAGE value="ring bg file edited" />
-    <option name="LAST_COMMIT_MESSAGE" value="ring bg file edited" />
+    <MESSAGE value="Design theme settings screen layout" />
+    <MESSAGE value="Create history screen layout for displaying previous records" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create history screen layout for displaying previous records" />
   </component>
 </project>
