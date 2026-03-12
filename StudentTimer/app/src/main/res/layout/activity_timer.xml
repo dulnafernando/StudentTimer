@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@color/bg_primary"
     android:padding="@dimen/pad_screen">
-
+    //Here beging
     <TextView
         android:id="@+id/tvHeader"
         android:layout_width="0dp"
