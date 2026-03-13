@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="bg_primary">#F6F7F9</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_glass">#E6FFFFFF</color>
+
+    <color name="accent">#00ADB5</color>
+    <color name="accent_soft">#71C9CE</color>
+
+    <color name="text_primary">#121212</color>
+    <color name="text_muted">#6F7782</color>
+
+    <color name="stroke_ghost">#22000000</color>
+    <color name="glass_overlay">#14000000</color>
+    <color name="shadow_tint">#1A000000</color>
+
+    <color name="danger">#FF4C60</color>
+</resources>
