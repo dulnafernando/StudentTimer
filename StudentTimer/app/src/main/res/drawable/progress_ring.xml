@@ -8,7 +8,7 @@
             <solid android:color="#33FFFFFF"/>
         </shape>
     </item>
-//Progress added
+
     <item android:id="@android:id/progress">
         <shape android:shape="ring"
             android:innerRadiusRatio="3"
