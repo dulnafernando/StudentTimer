@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Primary Filled Button -->
+    <style name="PrimaryButton" parent="Widget.Material3.Button">
+        <item name="cornerRadius">@dimen/radius_btn</item>
+        <item name="android:minHeight">54dp</item>
+        <item name="android:letterSpacing">0.04</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Outlined Ghost Button -->
+    <style name="GhostButton" parent="Widget.Material3.Button.OutlinedButton">
+        <item name="cornerRadius">@dimen/radius_btn</item>
+        <item name="android:minHeight">54dp</item>
+        <item name="strokeColor">@color/stroke_ghost</item>
+        <item name="strokeWidth">1dp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:letterSpacing">0.04</item>
+    </style>
+
+    <!-- Text Only Button -->
+    <style name="TextButton" parent="Widget.Material3.Button.TextButton">
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textColor">@color/text_muted</item>
+    </style>
+
+    <!-- Optional Glass Card (only if you use CardView) -->
+    <style name="GlassCard" parent="Widget.MaterialComponents.CardView">
+        <item name="cardCornerRadius">@dimen/radius_card</item>
+        <item name="cardElevation">2dp</item>
+        <item name="strokeWidth">1dp</item>
+        <item name="strokeColor">@color/stroke_ghost</item>
+        <item name="cardBackgroundColor">@color/surface_glass</item>
+    </style>
+
+</resources>
