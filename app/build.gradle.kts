@@ -4,9 +4,7 @@ plugins {
 
 android {
     namespace = "com.example.studenttimer"
-    compileSdk {
-        version = release(36)
-    }
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.example.studenttimer"
