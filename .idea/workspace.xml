@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="40269a76-a977-4074-a98a-d9437a602348" name="Changes" comment="ring bg file edited" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Kasuni" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Kasuni5626"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/dulnafernando/StudentTimer",
+    "accountId": "4baa34a7-5d39-476f-a8fc-55e8205e622d"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="3Aqy4ArefDodC9mUKYkRwnfYt6e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "Kasuni",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "AndroidSdkUpdater"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40269a76-a977-4074-a98a-d9437a602348" name="Changes" comment="" />
+      <created>1773334201584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773334201584</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Time activity java file edited">
+      <option name="closed" value="true" />
+      <created>1773335579465</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1773335579465</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Activity timer xml file edited">
+      <option name="closed" value="true" />
+      <created>1773335718538</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1773335718538</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Session adapter java file edited">
+      <option name="closed" value="true" />
+      <created>1773335821645</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1773335821645</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Session repo java file edited">
+      <option name="closed" value="true" />
+      <created>1773335906261</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1773335906261</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Item session file edited">
+      <option name="closed" value="true" />
+      <created>1773335983662</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1773335983662</updated>
+    </task>
+    <task id="LOCAL-00006" summary="progress file edited">
+      <option name="closed" value="true" />
+      <created>1773336054547</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1773336054547</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ring bg file edited">
+      <option name="closed" value="true" />
+      <created>1773336118415</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1773336118415</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Time activity java file edited" />
+    <MESSAGE value="Activity timer xml file edited" />
+    <MESSAGE value="Session adapter java file edited" />
+    <MESSAGE value="Session repo java file edited" />
+    <MESSAGE value="Item session file edited" />
+    <MESSAGE value="progress file edited" />
+    <MESSAGE value="ring bg file edited" />
+    <option name="LAST_COMMIT_MESSAGE" value="ring bg file edited" />
+  </component>
+</project>
