@@ -9,7 +9,7 @@
     app:cardBackgroundColor="@color/surface"
     app:strokeColor="@color/stroke_ghost"
     app:strokeWidth="1dp">
-// Item session added
+
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
